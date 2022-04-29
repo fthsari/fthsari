@@ -2,7 +2,7 @@
 - 👀 I’m interested machine learning and artificial intelligence.
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me on Instagram @fth.sarii
+- 📫 How to reach me on Instagram @fth.sari
 
 <!---
 fthsari/fthsari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
