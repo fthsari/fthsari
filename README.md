@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fthsari
-- 👀 I’m interested machine learning and artificial intelligence.
-- 🌱 I’m currently learning C
+- 👀 I’m interested embedded software implementation, stm32.
+- 🌱 I’m currently learning C, RTOS, Register level programming
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me on Instagram @fth.sari
 
